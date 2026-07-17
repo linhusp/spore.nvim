@@ -1,0 +1,1 @@
+require("spore").load('softest')

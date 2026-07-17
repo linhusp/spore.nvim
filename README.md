@@ -39,9 +39,9 @@ The main focus is for treesitter and lsp highlightings. But I will sometimes add
 
 The current list is:
 
-- gitsigns
-- mini.pick
-- blink.cmp
+- [gitsigns](https://github.com/lewis6991/gitsigns.nvim)
+- [mini.pick](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-pick.md)
+- [blink.cmp](https://github.com/Saghen/blink.cmp)
 [default_img]: https://raw.githubusercontent.com/linhusp/spore.nvim/master/screenshots/default.png
 [soft_img]: https://raw.githubusercontent.com/linhusp/spore.nvim/master/screenshots/soft.png
 [softer_img]: https://raw.githubusercontent.com/linhusp/spore.nvim/master/screenshots/softer.png

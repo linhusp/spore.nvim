@@ -32,7 +32,6 @@ M.load = function(variant)
     -- Desaturation variants
     local protected_colors = {
         bg = true,
-        tree = true,
     }
     if variant ~= 'none' then
         for key, color in pairs(palette) do

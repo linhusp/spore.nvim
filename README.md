@@ -42,6 +42,12 @@ The current list is:
 - [gitsigns](https://github.com/lewis6991/gitsigns.nvim)
 - [mini.pick](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-pick.md)
 - [blink.cmp](https://github.com/Saghen/blink.cmp)
+
+## Inspirations
+
+- [xero/miasma.nvim](https://github.com/xero/miasma.nvim)
+- [sainnhe/everforest](https://github.com/sainnhe/everforest)
+
 [default_img]: https://raw.githubusercontent.com/linhusp/spore.nvim/master/screenshots/default.png
 [soft_img]: https://raw.githubusercontent.com/linhusp/spore.nvim/master/screenshots/soft.png
 [softer_img]: https://raw.githubusercontent.com/linhusp/spore.nvim/master/screenshots/softer.png

@@ -31,11 +31,11 @@ There are the default colorscheme and 3 desaturation variants:
 
 | spore-soft                            | spore-softer                              | spore-softest                           |
 | ------------------------------------- | ----------------------------------------- | --------------------------------------- |
-| ![Soft](screenshots/soft-variant.png) | ![Softer](screenshots/softer-variant.png) | ![Softest](screenshots/softest-variant) |
+| ![Soft](screenshots/soft-variant.png) | ![Softer](screenshots/softer-variant.png) | ![Softest](screenshots/softest-variant.png) |
 
 ## Plugins support
 
-The main focus is for treesitter and lsp highlightings, but I will sometimes add support for other plugins, at least the ones that I used.
+The main focus is for treesitter and lsp highlightings. But I will sometimes add support for other plugins, at least the ones that I used.
 
 The current list is:
 

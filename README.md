@@ -25,13 +25,13 @@ vim.cmd.colorscheme('spore')
 
 There are the default colorscheme and 3 desaturation variants:
 
-| spore                               | spore-soft                    |
-| ----------------------------------- | ----------------------------- |
-| ![Default](screenshots/default.png) | ![Soft](screenshots/soft.png) |
+| spore                   | spore-soft        |
+| ----------------------- | ----------------- |
+| ![Default][default_img] | ![Soft][soft_img] |
 
-| spore-softer                      | spore-softest                       |
-| --------------------------------- | ----------------------------------- |
-| ![Softer](screenshots/softer.png) | ![Softest](screenshots/softest.png) |
+| spore-softer          | spore-softest           |
+| --------------------- | ----------------------- |
+| ![Softer][softer_img] | ![Softest][softest_img] |
 
 ## Plugins support
 
@@ -42,3 +42,7 @@ The current list is:
 - gitsigns
 - mini.pick
 - blink.cmp
+[default_img]: https://raw.githubusercontent.com/linhusp/spore.nvim/master/screenshots/default.png
+[soft_img]: https://raw.githubusercontent.com/linhusp/spore.nvim/master/screenshots/soft.png
+[softer_img]: https://raw.githubusercontent.com/linhusp/spore.nvim/master/screenshots/softer.png
+[softest_img]: https://raw.githubusercontent.com/linhusp/spore.nvim/master/screenshots/softest.png

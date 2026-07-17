@@ -25,13 +25,13 @@ vim.cmd.colorscheme('spore')
 
 There are the default colorscheme and 3 desaturation variants:
 
-| spore                                       |
-| ------------------------------------------- |
-| ![Default](screenshots/default-variant.png) |
+| spore                               | spore-soft                    |
+| ----------------------------------- | ----------------------------- |
+| ![Default](screenshots/default.png) | ![Soft](screenshots/soft.png) |
 
-| spore-soft                            | spore-softer                              | spore-softest                           |
-| ------------------------------------- | ----------------------------------------- | --------------------------------------- |
-| ![Soft](screenshots/soft-variant.png) | ![Softer](screenshots/softer-variant.png) | ![Softest](screenshots/softest-variant.png) |
+| spore-softer                      | spore-softest                       |
+| --------------------------------- | ----------------------------------- |
+| ![Softer](screenshots/softer.png) | ![Softest](screenshots/softest.png) |
 
 ## Plugins support
 

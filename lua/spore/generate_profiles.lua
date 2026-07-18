@@ -29,20 +29,38 @@ local p_low = calculate_profile(0.15)
 local p_med = calculate_profile(0.25)
 local p_high = calculate_profile(0.40)
 
-print("local profiles = {")
-print("    soft = {")
-print(string.format("        s = %.2f,", p_low.s))
-print(string.format("        c = %.2f,", p_low.c))
-print(string.format("        tint = { r = 1.0, g = %.2f, b = %.2f }", p_low.tint.g, p_low.tint.b))
-print("    },")
-print("    softer = {")
-print(string.format("        s = %.2f,", p_med.s))
-print(string.format("        c = %.2f,", p_med.c))
-print(string.format("        tint = { r = 1.0, g = %.2f, b = %.2f }", p_med.tint.g, p_med.tint.b))
-print("    },")
-print("    softest = {")
-print(string.format("        s = %.2f,", p_high.s))
-print(string.format("        c = %.2f,", p_high.c))
-print(string.format("        tint = { r = 1.0, g = %.2f, b = %.2f }", p_high.tint.g, p_high.tint.b))
-print("    }")
-print("}")
+print('local profiles = {')
+print('    soft = {')
+print(string.format('        s = %.2f,', p_low.s))
+print(string.format('        c = %.2f,', p_low.c))
+print(
+    string.format(
+        '        tint = { r = 1.0, g = %.2f, b = %.2f }',
+        p_low.tint.g,
+        p_low.tint.b
+    )
+)
+print('    },')
+print('    softer = {')
+print(string.format('        s = %.2f,', p_med.s))
+print(string.format('        c = %.2f,', p_med.c))
+print(
+    string.format(
+        '        tint = { r = 1.0, g = %.2f, b = %.2f }',
+        p_med.tint.g,
+        p_med.tint.b
+    )
+)
+print('    },')
+print('    softest = {')
+print(string.format('        s = %.2f,', p_high.s))
+print(string.format('        c = %.2f,', p_high.c))
+print(
+    string.format(
+        '        tint = { r = 1.0, g = %.2f, b = %.2f }',
+        p_high.tint.g,
+        p_high.tint.b
+    )
+)
+print('    }')
+print('}')

@@ -35,9 +35,7 @@ There are the default colorscheme and 3 desaturation variants:
 
 ## Plugins support
 
-The main focus is for treesitter and lsp highlightings. But I will sometimes add support for other plugins, at least the ones that I used.
-
-The current list is:
+The main focus is for treesitter and lsp highlightings. But I will sometimes add support for other plugins, at least the ones that I actively use.
 
 - [indenmini](https://github.com/nvimdev/indentmini.nvim)
 - [gitsigns](https://github.com/lewis6991/gitsigns.nvim)

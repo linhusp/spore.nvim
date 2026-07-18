@@ -20,8 +20,6 @@ M.special_fg = M.clay
 M.delimiter_fg = M.moss
 
 -- ui
-M.special_char = '#73705c'
--- M.panel_bg = '#20211c'
 M.focus_bg = '#1d352e'
 M.focus_bg = '#192e28'
 M.float_bg = '#152823'

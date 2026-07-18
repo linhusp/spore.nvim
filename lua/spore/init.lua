@@ -22,7 +22,7 @@ M.load = function(variant)
 
     color_shifter.parse(palette.bg)
 
-    -- --- Start of  Options -----------------------------------------
+    -- Start of options ----------------------------------------------
 
     -- Transparent background
     if vim.g.spore_transparent_background == true then
@@ -49,7 +49,7 @@ M.load = function(variant)
         palette.delimiter_fg = palette.moss
     end
 
-    -- --- End of options --------------------------------------------
+    -- End of options ------------------------------------------------
 
     local default_hls = require('spore.highlights').build(palette)
     local plugin_hls = require('spore.plugins').build(palette)

@@ -19,23 +19,6 @@ local profiles = {
         tint = { r = 1.0, g = 0.96, b = 0.90 },
     },
 }
--- local profiles = {
---     soft = {
---         s = 0.85,
---         c = 0.95,
---         tint = { r = 1.0, g = 1.0, b = 0.95 },
---     },
---     softer = {
---         s = 0.75,
---         c = 0.90,
---         tint = { r = 1.0, g = 0.98, b = 0.92 },
---     },
---     softest = {
---         s = 0.65,
---         c = 0.85,
---         tint = { r = 1.0, g = 0.96, b = 0.89 },
---     },
--- }
 
 local bg_r = 0
 local bg_g = 0

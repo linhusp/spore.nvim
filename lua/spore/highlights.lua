@@ -144,7 +144,7 @@ M.build = function(c)
         -- Treesitter
         ['@variable'] = { link = 'Identifier' },
         ['@variable.builtin'] = { link = 'Special' },
-        ['@variable.parameter'] = { fg = c.fg, italic = true },
+        ['@variable.parameter'] = { fg = c.fg },
         ['@variable.parameter.builtin'] = { link = 'Special' },
         ['@variable.member'] = { link = '@variable' },
         ['@constant'] = { link = 'Constant' },
